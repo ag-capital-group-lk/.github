@@ -18,12 +18,6 @@ AG Capital Lanka (Pvt) Ltd is a Sri Lanka-based company under the AG Group. We u
 - Access is managed through teams, not individual repository invites.
 - Two-factor authentication is required for all organization members.
 
-## Repository Structure
-
-| Repository | Description |
-|------------|-------------|
-| _(add repos here as they are created)_ | |
-
 ## Contact
 
 For access requests or questions about this organization, please reach out to an organization owner or email **github@aggroup.lk**.
