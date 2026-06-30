@@ -30,4 +30,4 @@ For access requests or questions about this organization, please reach out to an
 
 ---
 
-© 2026 AG Capital Lanka (Pvt) Ltd. All rights reserved.
+© 2025 AG Capital Lanka (Pvt) Ltd. All rights reserved.
